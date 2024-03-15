@@ -58,7 +58,7 @@ body{
     width: 75px;
   }
   .relogio span{
-    
+    font-weight: bolder;
     font-size:40px;
   }
   .relogio span#unidade{
